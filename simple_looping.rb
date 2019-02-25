@@ -33,8 +33,8 @@ def until_iterator(number_of_times)
   # hint: use a counter to tell the until loop when to stop!
   
   counter = 0
-  
-  phrase = "Welcome to Flatiron School's Web Development Course!"
+  until counter == 10
+  puts = "Welcome to Flatiron School's Web Development Course!"
 
 end
 
