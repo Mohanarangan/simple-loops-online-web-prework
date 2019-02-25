@@ -16,6 +16,7 @@ def loop_iterator(number_of_times)
   if counter> 10
   break
 end
+end
 
 def times_iterator(number_of_times)
   4.times do
