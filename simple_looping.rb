@@ -42,6 +42,6 @@ def for_iterator(number_of_times)
   for number in 1..10
   
   puts "Welcome to Flatiron School's Web Development Course!"
-  
+end
 end
 
